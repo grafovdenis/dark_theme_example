@@ -1,7 +1,9 @@
 # dark_theme_example
 
-BLoC Provider example application.
+BLoC Provider example application.  
 This example shows how to change theme from light to dark in runtime using BLoC Provider in Flutter.
+
+<img src="https://user-images.githubusercontent.com/20505376/77337676-43212d80-6d3a-11ea-8b64-216433cf78a2.gif" height="600" />
 
 ## Getting Started
 
